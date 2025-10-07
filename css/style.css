@@ -387,6 +387,38 @@ body{font-family:Inter,system-ui,sans-serif;background:#000;color:#fff}
 }
 
 
+/* ====== CÓDIGO DE VESTIMENTA ====== */
+.dresscode {
+  background: #f8fbff;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.dress-inner {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.dress-icon {
+  font-size: 3rem;
+  color: #aeb178; /* dorado elegante */
+  margin-bottom: 20px;
+}
+
+.dress-title {
+  font-family: 'Great Vibes', cursive;
+  font-size: 2.8rem;
+  color: #0f1c2e;
+  margin-bottom: 20px;
+}
+
+.dress-text {
+  font-family: 'Merriweather', serif;
+  font-size: 1.2rem;
+  color: #444;
+  line-height: 1.8;
+}
+
 
 
 
